@@ -1,1 +1,1 @@
-# ping-pong-prototype
+#  Game web app v1.0.0
